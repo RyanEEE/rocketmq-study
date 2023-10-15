@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a-rocketmq-demo/a-rocketmq-demo.iml" filepath="$PROJECT_DIR$/a-rocketmq-demo/a-rocketmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-boot-c/rocketmq-boot-c.iml" filepath="$PROJECT_DIR$/rocketmq-boot-c/rocketmq-boot-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-boot-p/rocketmq-boot-p.iml" filepath="$PROJECT_DIR$/rocketmq-boot-p/rocketmq-boot-p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-study.iml" filepath="$PROJECT_DIR$/rocketmq-study.iml" />
+    </modules>
+  </component>
+</project>
